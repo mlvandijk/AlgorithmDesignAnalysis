@@ -1,2 +1,3 @@
 # AlgorithmDesignAnalysis
-Code for the course Algorithm Design and Analysis (Stanford University)
+Code for the Coursera course Algorithm Design and Analysis (Stanford University):
+https://www.coursera.org/learn/algorithm-design-analysis/home/welcome
